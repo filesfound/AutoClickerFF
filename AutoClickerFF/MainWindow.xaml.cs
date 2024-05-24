@@ -13,9 +13,9 @@ namespace AutoClickerFF
 {
     public partial class MainWindow : Window
     {
-        public bool leftClick;              // true if autoclicks should be made with the left mouse button, selected via radio button
-        public bool rightClick;             // true if autoclicks should be made with the right mouse button, selected via radio button
-        public float clickInterval;         // interval in seconds between autoclicks, selected from a dropdown
+        public bool leftClick = true;       // true if autoclicks should be made with the left mouse button, selected via radio button
+        public bool rightClick = false;     // true if autoclicks should be made with the right mouse button, selected via radio button
+        public float clickInterval = 0.01f; // interval in seconds between autoclicks, selected from a dropdown
         public bool autoClicking = false;   // true if the application is autoclicking
         public int autoClickCount = 0;      // number of clicks preformed by the current autoclick session, shown in the application window
 
