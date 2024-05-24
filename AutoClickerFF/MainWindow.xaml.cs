@@ -36,10 +36,9 @@ namespace AutoClickerFF
             // set variables to be the same as default selected variables in the application window
             IntervalComboBox.SelectedIndex = 0;
             clickInterval = 0.01f;
-            LeftClickRadioButton.IsChecked = true;
-            LeftClickRadioButton.IsChecked = false;
             autoClicking = false;
             autoClickCount = 0;
+            ClickCountTextBox.Text = autoClickCount.ToString();
 
             // get image paths, set image in application window to show that autoclicking is off
             autoclickOff = new BitmapImage(new Uri("pack://application:,,,/Resources/autoclickOff.png"));
