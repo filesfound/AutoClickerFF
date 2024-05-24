@@ -1,0 +1,15 @@
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\bin\Debug\AutoClickerFF.exe.config
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\bin\Debug\AutoClickerFF.exe
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\bin\Debug\AutoClickerFF.pdb
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.csproj.AssemblyReference.cache
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\MainWindow.g.cs
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\App.g.cs
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF_MarkupCompile.cache
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF_MarkupCompile.lref
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\MainWindow.baml
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.g.resources
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.Properties.Resources.resources
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.csproj.GenerateResource.cache
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.csproj.CoreCompileInputs.cache
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.exe
+C:\Users\Chelsea\Dropbox\Creative Projects\filesfound!\projects\AutoClickerFF\AutoClickerFF\AutoClickerFF\obj\Debug\AutoClickerFF.pdb
