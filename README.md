@@ -4,3 +4,5 @@ Made for personal use and as a part of an article on filesfound.net : https://fi
 How To Use:
 1. Move mouse to clicking position.
 2. Press Ctrl + D to start/stop autoclicking!
+
+![screenshot of AutoClickerFF](https://github.com/filesfound/AutoClickerFF/blob/master/screen.png?raw=true)
